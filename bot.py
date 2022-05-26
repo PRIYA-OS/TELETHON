@@ -43,7 +43,7 @@ async def begin(e):
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
-            [Button.inline("Thanos Session", data="tele")],
+            [Button.inline("member bot", data="tele")],
         ],
     )
 
